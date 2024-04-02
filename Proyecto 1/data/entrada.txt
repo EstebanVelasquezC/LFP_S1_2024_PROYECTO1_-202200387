@@ -1,0 +1,55 @@
+Inicio:{
+Encabezado:{
+TituloPagina:"Ejemplo de Página HTML";
+},
+Cuerpo:[
+Titulo:{
+texto:"Bienvenido a mi Página";
+posicion:"centro";
+tamaño:"24px";
+color:"#FF00543";
+},
+Parrafo:{
+texto:"Esta es una página de ejemplo que muestra cómo usar el traductor de HTML.";
+posicion:"izquierda";
+},
+Texto:{
+fuente:"Arial";
+color:"#0000FF";
+tamaño:"14px";
+texto:"Este es un texto de ejemplo con formato.";
+},
+Codigo:{
+texto:"<html>\n<head>\n<title>Ejemplo</title>\n</head>\n<body>\n<h1>Este es un encabezado</h1>\n<p>Este es un párrafo</p>\n</body>\n</html>";
+posicion:"izquierda";
+},
+Negrita:{
+texto:"Este texto está en negrita.";
+},
+Subrayado:{
+texto:"Este texto está subrayado.";
+},
+Tachado:{
+texto:"Este texto está tachado.";
+},
+Cursiva:{
+texto:"Este texto está en cursiva.";
+},
+Salto:{
+cantidad:"2";
+},
+Tabla:{
+filas:"2";
+columnas:"2";
+elementos:[
+{"fila":"1","columna":"1","texto":"Celda 1"},
+{"fila":"1","columna":"2","texto":"Celda 2"},
+{"fila":"2","columna":"1","texto":"Celda 3"},
+{"fila":"2","columna":"2","texto":"Celda 4"}
+]
+}
+]
+}
+
+
+
